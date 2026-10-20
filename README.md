@@ -48,4 +48,4 @@ This project demonstrates practical skills in business intelligence, data visual
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](hr-dashboard.png)
+![HR Analytics Dashboard](HR-screenshot.png)
