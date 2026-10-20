@@ -43,5 +43,5 @@ The HR Analytics Dashboard is an interactive data visualization project develope
 2. Open it using Microsoft Power BI Desktop.
 3. Interact with the dashboard visuals and filters.
 
-## Learning Outcomes
+## Outcomes
 This project demonstrates practical skills in business intelligence, data visualization, workforce analytics, and communicating data-driven findings.
