@@ -45,3 +45,7 @@ The HR Analytics Dashboard is an interactive data visualization project develope
 
 ## Outcomes
 This project demonstrates practical skills in business intelligence, data visualization, workforce analytics, and communicating data-driven findings.
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](hr-dashboard.png)
